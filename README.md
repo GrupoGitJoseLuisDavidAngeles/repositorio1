@@ -54,4 +54,19 @@ Al pulsar el botón "Mostrar Mensaje" se mostrará en pantalla el texto:
 - Ramas en las que ha trabajado: Angeles
 - Referencias consultadas: https://docs.github.com/es/get-started 
 
+## Aportación de David Ávila Sánchez
+   - Nombre: David Ávila Sánchez
+   - Usuario GitHub: DavidAvilaSanchez
+   - Rol: Desarrollador
+   - Ramas trabajadas: feature-david
+   - Referencias: https://docs.github.com/es
+   
+## Aportación de José Luis
+
+- Nombre completo: José Luis Ramírez Barrios
+- Usuario Github: JoseRamirezB
+- Rol dentro del equipo: Manager
+- Ramas en las que he trabajado: feature-JoseLuis
+- Referencias consultadas: https://docs.github.com/es
+
 Desarrollado por: **José Luis, Ángeles y David**
