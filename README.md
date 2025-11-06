@@ -46,6 +46,14 @@ Al pulsar el botón "Mostrar Mensaje" se mostrará en pantalla el texto:
 
 ---
 
+
+## Aportación de David Ávila Sánchez
+   - Nombre: David Ávila Sánchez
+   - Usuario GitHub: DavidAvilaSanchez
+   - Rol: Desarrollador
+   - Ramas trabajadas: feature-david
+   - Referencias: https://docs.github.com/es
+   
 ## Aportación de José Luis
 
 - Nombre completo: José Luis Ramírez Barrios
