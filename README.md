@@ -47,6 +47,13 @@ Al pulsar el botón "Mostrar Mensaje" se mostrará en pantalla el texto:
 ---
 
 
+## Aportación de Ángeles
+- Nombre completo: Ángeles Alexandra Angamarca Bonete
+- Usuario GitHub: angeles-23
+- Rol dentro del equipo: Diseñador
+- Ramas en las que ha trabajado: Angeles
+- Referencias consultadas: https://docs.github.com/es/get-started 
+
 ## Aportación de David Ávila Sánchez
    - Nombre: David Ávila Sánchez
    - Usuario GitHub: DavidAvilaSanchez
