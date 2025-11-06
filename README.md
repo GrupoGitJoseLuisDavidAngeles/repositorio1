@@ -46,4 +46,12 @@ Al pulsar el botón "Mostrar Mensaje" se mostrará en pantalla el texto:
 
 ---
 
+## Aportación de José Luis
+
+- Nombre completo: José Luis Ramírez Barrios
+- Usuario Github: JoseRamirezB
+- Rol dentro del equipo: Manager
+- Ramas en las que he trabajado: feature-JoseLuis
+- Referencias consultadas: https://docs.github.com/es
+
 Desarrollado por: **José Luis, Ángeles y David**
